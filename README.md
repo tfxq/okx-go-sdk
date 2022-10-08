@@ -15,8 +15,8 @@ okex
 
 Okex V5 Golang API
 
-A complete golang wrapper for [Okex](https://www.okex.com) V5 API. Pretty simple and easy to use. For more info about
-Okex V5 API [read here](https://www.okex.com/docs-v5/en).
+A complete golang wrapper for [Okex](https://www.okx.com) V5 API. Pretty simple and easy to use. For more info about
+Okex V5 API [read here](https://www.okx.com/docs-v5/en).
 
 Installation
 -----------------
@@ -134,22 +134,22 @@ func main() {
 Supporting APIs
 ---------------
 
-* [Rest](https://www.okex.com/docs-v5/en/#rest-api)
-    * [Trade](https://www.okex.com/docs-v5/en/#rest-api-trade) (except demo special trading endpoints)
-    * [Funding](https://www.okex.com/docs-v5/en/#rest-api-funding)
-    * [Account](https://www.okex.com/docs-v5/en/#rest-api-account)
-    * [SubAccount](https://www.okex.com/docs-v5/en/#rest-api-subaccount)
-    * [Market Data](https://www.okex.com/docs-v5/en/#rest-api-market-data)
-    * [Public Data](https://www.okex.com/docs-v5/en/#rest-api-public-data)
-    * [Trading Data](https://www.okex.com/docs-v5/en/#rest-api-trading-data)
+* [Rest](https://www.okx.com/docs-v5/en/#rest-api)
+    * [Trade](https://www.okx.com/docs-v5/en/#rest-api-trade) (except demo special trading endpoints)
+    * [Funding](https://www.okx.com/docs-v5/en/#rest-api-funding)
+    * [Account](https://www.okx.com/docs-v5/en/#rest-api-account)
+    * [SubAccount](https://www.okx.com/docs-v5/en/#rest-api-subaccount)
+    * [Market Data](https://www.okx.com/docs-v5/en/#rest-api-market-data)
+    * [Public Data](https://www.okx.com/docs-v5/en/#rest-api-public-data)
+    * [Trading Data](https://www.okx.com/docs-v5/en/#rest-api-trading-data)
 
-[comment]: <> (    * [Status]&#40;https://www.okex.com/docs-v5/en/#rest-api-status&#41;)
+[comment]: <> (    * [Status]&#40;https://www.okx.com/docs-v5/en/#rest-api-status&#41;)
 
-* [Ws](https://www.okex.com/docs-v5/en/#websocket-api)
-    * [Private Channel](https://www.okex.com/docs-v5/en/#websocket-api-private-channel) (except demo special trading
+* [Ws](https://www.okx.com/docs-v5/en/#websocket-api)
+    * [Private Channel](https://www.okx.com/docs-v5/en/#websocket-api-private-channel) (except demo special trading
       endpoints)
-    * [Public Channel](https://www.okex.com/docs-v5/en/#websocket-api-public-channels)
-    * [Trade](https://www.okex.com/docs-v5/en/#websocket-api-trade)
+    * [Public Channel](https://www.okx.com/docs-v5/en/#websocket-api-public-channels)
+    * [Trade](https://www.okx.com/docs-v5/en/#websocket-api-trade)
 
 Features
 --------

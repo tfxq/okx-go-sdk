@@ -111,7 +111,7 @@ func (c *ClientRest) Do(method, path string, private bool, params ...map[string]
 // Status
 // Get event status of system upgrade
 //
-// https://www.okex.com/docs-v5/en/#rest-api-status
+// https://www.okx.com/docs-v5/en/#rest-api-status
 func (c *ClientRest) Status(req requests.Status) (response responses.Status, err error) {
 	p := "/api/v5/system/status"
 	m := okex.S2M(req)
