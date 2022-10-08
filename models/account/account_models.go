@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/amir-the-h/okex"
+	"github.com/tfxq/okx-go-sdk"
 )
 
 type (

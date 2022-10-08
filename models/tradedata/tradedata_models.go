@@ -3,7 +3,7 @@ package tradedata
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/amir-the-h/okex"
+	"github.com/tfxq/okx-go-sdk"
 	"strconv"
 	"time"
 )

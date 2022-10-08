@@ -2,9 +2,9 @@ package rest
 
 import (
 	"encoding/json"
-	"github.com/amir-the-h/okex"
-	requests "github.com/amir-the-h/okex/requests/rest/market"
-	responses "github.com/amir-the-h/okex/responses/market"
+	"github.com/tfxq/okx-go-sdk"
+	requests "github.com/tfxq/okx-go-sdk/requests/rest/market"
+	responses "github.com/tfxq/okx-go-sdk/responses/market"
 	"net/http"
 )
 
